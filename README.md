@@ -9,3 +9,5 @@ https://heimdalsecurity.com/blog/south-asian-governments-targeted-by-bitter-apt-
 https://blog.talosintelligence.com/2022/05/bitter-apt-adds-bangladesh-to-their.html
 
 https://www.secuinfra.com/en/techtalk/whatever-floats-your-boat-bitter-apt-continues-to-target-bangladesh/?utm_source=substack&utm_medium=email
+
+https://about.fb.com/wp-content/uploads/2022/08/Quarterly-Adversarial-Threat-Report-Q2-2022.pdf
