@@ -11,3 +11,5 @@ https://blog.talosintelligence.com/2022/05/bitter-apt-adds-bangladesh-to-their.h
 https://www.secuinfra.com/en/techtalk/whatever-floats-your-boat-bitter-apt-continues-to-target-bangladesh/?utm_source=substack&utm_medium=email
 
 https://about.fb.com/wp-content/uploads/2022/08/Quarterly-Adversarial-Threat-Report-Q2-2022.pdf
+
+https://mp.weixin.qq.com/s/7Q2nulqLsofjSftbWQt2kA
